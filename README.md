@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rafagustavo
-- 👀 I’m interested in  aprender novas linguagens de programação
-- 🌱 I’m currently learning  git hub
-- 💞️ I’m looking to collaborate on meu aprendizado 
-- 📫 How to reach me gustavo.rodrigues.santos06@escola.pr.gov.br
+- 👀 estou interesado aprender novas linguagens de programação
+- 🌱 atualmente estou aprendendo  git hub
+- 💞️ quero elevar meu aprendizado 
+- 📫 meu email para contato  gustavo.rodrigues.santos06@escola.pr.gov.br
 
 <!---
 Rafagustavo/Rafagustavo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
