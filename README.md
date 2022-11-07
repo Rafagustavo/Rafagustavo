@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafagustavo
+- 👋 Olá, sou @Rafagustavo
 - 👀 estou interesado aprender novas linguagens de programação
 - 🌱 atualmente estou aprendendo  git hub
 - 💞️ quero elevar meu aprendizado 
